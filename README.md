@@ -1,2 +1,2 @@
 # field-pal
-a community page for creating fields and lists
+is a community page for adding fields and create a name of the vegetation.
